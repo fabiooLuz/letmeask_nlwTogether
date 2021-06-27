@@ -5,7 +5,7 @@
 ## Let Me Ask
 
 <h4 align="center">
-  Let Me Ask é uma uma plataforma para criar salas de Q&A ao vivo (perguntas e respostas). Foi desenvolvida no módulo de React, durante o NLW Together promovido pela Rocketseat e ministrada pelo Diego Fernandes. 
+  Let Me Ask é uma uma plataforma para criar salas de Q&A ao vivo (perguntas e respostas). Foi desenvolvida no módulo React, durante o NLW Together promovido pela Rocketseat e ministrada pelo Diego Fernandes. 
 </h4>
 
 <h4 align="center"> Tela do Usuário</h4>
