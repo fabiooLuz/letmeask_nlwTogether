@@ -11,7 +11,7 @@ import { Button } from '../components/Button';
 import { useAuth } from '../hooks/useAuth';
 
 import '../styles/auth.scss';
-import React from 'react';
+//import React from 'react';
 
 export function Home() {
   const history = useHistory();
