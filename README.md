@@ -9,19 +9,23 @@
 </h4>
 
 <h4 align="center"> Tela do Usuário</h4>
+![screenshot](./src/assets/images/tela-login.
+png?raw=true "screenshot")
 
-<img src="./src/assets/images/tela-login.
-png"  alt="Tela de login">
 
 <h4 align="center"> Tela do Usuário</h4>
 
-<img src="./src/assets/images/tela-usuario.
-png" alt="Tela do usuario">
+![screenshot](./src/assets/images/tela-usuario.
+png?raw=true "screenshot")
+
+
 
 <h4 align="center"> Tela do admin</h4>
 
-<img src="./src/assets/images/tela-admin.
-png" alt="tela do admin">
+![screenshot](./src/assets/images/tela-admin.
+png?raw=true "screenshot")
+
+
 
 ## Tecnologias usadas nesse projeto.
 
